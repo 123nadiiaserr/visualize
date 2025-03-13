@@ -9,6 +9,6 @@ It generates random data and creates various charts.
 * Scatter plot 🔴
 
 # 📝 Code Overview
-* Generates random data using `numpy.
+* Generates random data using `numpy`.
 * Uses `matplotlib` for plotting.
 * Applies `seaborn` for styling.
