@@ -6,7 +6,7 @@ It generates random data and creates various charts.
 # 📊 Example Charts
 * Line plot 📈
 * Bar chart 📊
-* Scatter plot 🔴
+* Scatter plot.
 
 # 📝 Code Overview
 * Generates random data using `numpy`.
