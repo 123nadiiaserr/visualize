@@ -5,7 +5,7 @@ It generates random data and creates various charts.
 
 # 📊 Example Charts
 * Line plot 📈
-* Bar chart 📊
+* Bar chart.
 * Scatter plot.
 
 # 📝 Code Overview
