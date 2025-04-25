@@ -5,6 +5,7 @@ import seaborn as sns
 
 # Generate random data
 np.random.seed(42)
+data_1 = {}
 data = pd.DataFrame({
     "X": np.arange(1, 11),
     "Y": np.random.randint(10, 100, 10)
