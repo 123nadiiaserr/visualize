@@ -1,4 +1,4 @@
-# 📊 Data Visualization 
+# 📊 Dataset Visualization 
 
 This project demonstrates basic data visualization using `matplotlib` and `seaborn`.  
 It generates random data and creates various charts.
