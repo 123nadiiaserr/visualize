@@ -8,7 +8,7 @@ import time
 np.random.seed(42)
 data_1 = {}
 data = pd.DataFrame({
-    "X": np.arange(1, 11),
+    "X": np.arange(1, 11, 2),
     "Y": np.random.randint(10, 100, 10)
 })
 
