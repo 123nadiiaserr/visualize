@@ -12,7 +12,7 @@ data = pd.DataFrame({
 })
 
 # Create plots
-plt.figure(figsize=(12, 6))
+plt.figure(figsize=(12, 5))
 
 plt.subplot(1, 2, 1)
 sns.lineplot(x="X", y="Y", data=data, marker="o")
