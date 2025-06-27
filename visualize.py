@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Generate random data
-np.random.seed(42)
+np.random.seed(43)
 data_1 = {}
 data = pd.DataFrame({
     "X": np.arange(1, 11, 2),
